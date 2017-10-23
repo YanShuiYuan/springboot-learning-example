@@ -1,5 +1,5 @@
 # springboot-learning-example
-spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践(clone by ysy on 2017-10-23 23:31)。
 
 # 推荐 springcloud-learning-example
 [spring cloud 实践学习案例](https://github.com/JeffLi1993/springcloud-learning-example)<br>
